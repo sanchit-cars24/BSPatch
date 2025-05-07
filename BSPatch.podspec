@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BSPatch'
-  s.version          = '1.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'BSPatch pod library for iOS applications.'
 
   s.description      = <<-DESC
